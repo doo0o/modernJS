@@ -10,4 +10,6 @@ function data(url, val, prod){
 var mainUrl = new data('www.naver.com?','page=',3);
 var mainUrl = new data('www.daum.net?','page=',3);
 
-mainUrl.output();
+// mainUrl.output();
+
+
